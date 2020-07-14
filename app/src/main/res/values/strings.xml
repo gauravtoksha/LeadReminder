@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LeadReminder</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="city">City</string>
+    <string name="dd_mm_yy">dd/mm/yy</string>
+    <string name="pick_file">pick file</string>
+    <string name="please_wait_this_may_take_a_moment">Please wait! This may take a moment.</string>
+    <string name="go_to_gmap">Go To Gmap</string>
+    <string name="use_previous_file">previous file</string>
+    <string name="see_on_map">map</string>
+    <string name="app_id">App ID</string>
+    <string name="shop_name">Shop Name</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="status">Status</string>
+    <string name="reason">Reason</string>
+    <string name="last_visited">Last Visited</string>
+    <string name="next_date">Next Date</string>
+    <string name="address">Address</string>
+    <string name="textview">TextView</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">type shop name</string>
+</resources>
